@@ -1,0 +1,108 @@
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.dll
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.pdb
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\AppManifest.xaml
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery_Debug_AnyCPU.xap
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\App.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\CreateRoute.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\MainPage.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\RegPage.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchResult.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchRoute.g.cs
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.g.resources
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.Resources.AppResources.resources
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.csproj.GenerateResource.Cache
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.dll
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.pdb
+C:\Users\root\documents\visual studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\XapCacheFile.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\ApplicationIcon.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.dll
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.pdb
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\AppManifest.xaml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Properties\WMAppManifest.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery_Debug_AnyCPU.xap
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\App.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\CreateRoute.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\LoginPage.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\MainPage.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\RegPage.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchResult.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchRoute.g.cs
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.g.resources
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.Resources.AppResources.resources
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.dll
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.pdb
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\XapCacheFile.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\resources.pri
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\AppxManifest.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.build.appxrecipe
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\priconfig.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\priconfig.xml.intermediate
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\layout.resfiles
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\layout.resfiles.intermediate
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\resources.resfiles
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\resources.resfiles.intermediate
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\pri.resfiles
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\pri.resfiles.intermediate
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\qualifiers.txt
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\qualifiers.txt.intermediate
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\ProjectArchitectures.txt
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\MDILProjectFiles.xml
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\VisualStudioProjects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.dll
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.pdb
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\resources.pri
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\AppxManifest.xml
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery.build.appxrecipe
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\AppManifest.xaml
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\CargoDelivery_Debug_AnyCPU.xap
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\App.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\CreateRoute.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\RegPage.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchResult.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\Pages\SearchRoute.g.cs
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.g.resources
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.Resources.AppResources.resources
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.csproj.GenerateResource.Cache
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.dll
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\CargoDelivery.pdb
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\priconfig.xml
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\priconfig.xml.intermediate
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\layout.resfiles
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\layout.resfiles.intermediate
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\resources.resfiles
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\resources.resfiles.intermediate
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\pri.resfiles
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\pri.resfiles.intermediate
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\qualifiers.txt
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\ProjectArchitectures.txt
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\MDILProjectFiles.xml
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\obj\Debug\XapCacheFile.xml

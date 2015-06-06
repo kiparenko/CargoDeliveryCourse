@@ -1,0 +1,58 @@
+﻿@{
+    Layout = "~/Views/Home/MasterPage.cshtml";
+}
+
+    <div style="margin:5%;">
+        <div style="margin-bottom:30px">
+            <form method="get" action="/">
+                <div class="form-group">
+                    <label>From</label>
+                    <input type="text" class="form-control" name="from_" placeholder="From">
+                </div>
+                <div class="form-group">
+                    <label>Destination</label>
+                    <input type="text" class="form-control" name="to_" placeholder="To">
+                </div>
+                <div class="form-group">
+                    <label>Date</label>
+                    <input type="text" class="form-control" name="date_" placeholder="21.12.2012">
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+        <div>
+
+
+            <table class="table table-striped">
+                <tr>
+                    <th>route</th>
+                    <th>vehicle</th>
+                    <th>name</th>
+                    <th>phone</th>
+                    <th>date</th>
+                    <th> </th>
+                </tr>
+                @foreach (RouteItem i in ViewBag.routes)
+                {
+                    <tr>
+                        <td>@i.RouteCities</td>
+                        <td>@i.Vehicle</td>
+                        <td>@i.Name</td>
+                        <td>@i.Phone</td>
+                        <td>@i.Date.Date</td>
+                        <td>
+                            @if (Session["id"] == null)
+                            {
+                                <button type="button" class="btn btn-primary" data-toggle="popover" title="Нельзя" data-content="Залогиньтесь, что-бы отправлять сообщения">Отправить сообщение</button>
+                            }
+                            else
+                            {
+                                <a class="btn btn-primary" href="/Home/SendMessage?to_=@i.UserId" role="button">Отправить сообщение</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+

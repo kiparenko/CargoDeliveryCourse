@@ -1,0 +1,1 @@
+C:\Users\Vasiliy\Documents\Visual Studio 2013\Projects\CargoDelivery\CargoDelivery\CargoDelivery.csproj;neutral

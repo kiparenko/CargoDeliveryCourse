@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Home/MasterPage.cshtml";
+}
+
+<div style="margin:5%">
+    <form>
+        <input type="hidden" value="@Session["id"]" name="from_" />
+        <input type="hidden" value="@ViewBag.to_" name="to_" />
+        <div class="form-group">
+            <label>Сообщение</label>
+            <textarea class="form-control" rows="3" name="messagetext"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Отправить</button>
+    </form>
+</div>

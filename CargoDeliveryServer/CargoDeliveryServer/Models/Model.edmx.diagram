@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c8d92dcbc8cc47bf8bb593e6fd4fc45f" Name="Diagram1">
+        <EntityTypeShape EntityType="cddbModel.Message" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="cddbModel.Route" Width="1.5" PointX="4" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="cddbModel.User" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <AssociationConnector Association="cddbModel.FK_MessageReceiver_ToUser" ManuallyRouted="false" />
+        <AssociationConnector Association="cddbModel.FK_MessageSender_ToUser" ManuallyRouted="false" />
+        <AssociationConnector Association="cddbModel.FK__Routes__userid__21B6055D" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

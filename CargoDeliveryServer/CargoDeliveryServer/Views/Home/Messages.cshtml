@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "~/Views/Home/MasterPage.cshtml";
+}
+
+<div style="margin:5%;">
+    <div style="margin-bottom:30px">
+        <table class="table table-striped">
+            <tr>
+                <th>кому/от кого</th>
+                <th>дата</th>
+                <th>сообщение</th>
+                <th> </th>
+            </tr>
+            @foreach (Message i in ViewBag.messages)
+            {
+                <tr>
+                    <td>
+                        @if (i.received)
+                        {  <span class="glyphicon glyphicon-arrow-left" aria-hidden="true" style="color:green"></span> }
+                        else
+                        {  <span class="glyphicon glyphicon-arrow-right" aria-hidden="true" style="color:#F00000"></span> } @i.UserName
+                    </td>
+                    <td>@i.Date</td>
+                    <td>@i.MessageText</td>
+                    <td><a class="btn btn-default" href="/Home/SendMessage?to_=@i.UserId" role="button">ответить</a></td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
